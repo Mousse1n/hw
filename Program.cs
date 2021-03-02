@@ -7,6 +7,7 @@ namespace homework
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("next change!");
         }
     }
 }
